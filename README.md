@@ -1,1 +1,1 @@
-# Exercise02a-UnityShipMovement
+# Exercise02a-Botond Kun
